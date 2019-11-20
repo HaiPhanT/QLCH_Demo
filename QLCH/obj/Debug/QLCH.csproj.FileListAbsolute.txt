@@ -1,0 +1,7 @@
+E:\IT\VB2\HK I\Programming-VB2\NMLT\Csharp_Basic\QuanLyCuaHang_Demo\QLCH\QLCH\bin\Debug\QLCH.exe.config
+E:\IT\VB2\HK I\Programming-VB2\NMLT\Csharp_Basic\QuanLyCuaHang_Demo\QLCH\QLCH\bin\Debug\QLCH.exe
+E:\IT\VB2\HK I\Programming-VB2\NMLT\Csharp_Basic\QuanLyCuaHang_Demo\QLCH\QLCH\bin\Debug\QLCH.pdb
+E:\IT\VB2\HK I\Programming-VB2\NMLT\Csharp_Basic\QuanLyCuaHang_Demo\QLCH\QLCH\obj\Debug\QLCH.csprojAssemblyReference.cache
+E:\IT\VB2\HK I\Programming-VB2\NMLT\Csharp_Basic\QuanLyCuaHang_Demo\QLCH\QLCH\obj\Debug\QLCH.csproj.CoreCompileInputs.cache
+E:\IT\VB2\HK I\Programming-VB2\NMLT\Csharp_Basic\QuanLyCuaHang_Demo\QLCH\QLCH\obj\Debug\QLCH.exe
+E:\IT\VB2\HK I\Programming-VB2\NMLT\Csharp_Basic\QuanLyCuaHang_Demo\QLCH\QLCH\obj\Debug\QLCH.pdb
